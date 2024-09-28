@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+     margin: 30px; 
+}
+.raw{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{   
+    height: 150px;
+    width: 120px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.box p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.win{
+    text-align: center;
+}
+.win button{
+    margin: 15px;
+    background-color:greenyellow;
+    color: black;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.head{
+    text-align: center;
+}
