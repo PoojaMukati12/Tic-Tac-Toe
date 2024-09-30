@@ -8,4 +8,4 @@ The goal is to be the first player to place three of their symbols (X or O) in a
 
 I built this game by using Javascript and React.JS.
 
-
+## 👉Click here to start the [game](https://tic-tac-toe-blond-eta.vercel.app/)
