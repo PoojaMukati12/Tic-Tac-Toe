@@ -1,8 +1,11 @@
-# React + Vite
+# Tic-Tac-Toe 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed Tic-Tac-Toe,a game where two players take turns making spaces in a 3x3 grid.
 
-Currently, two official plugins are available:
+The game is typically played with X and O symbols, where one player uses X, and the other uses O.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal is to be the first player to place three of their symbols (X or O) in a row, either horizontally, vertically, or diagonally.
+
+I built this game by using Javascript and React.JS.
+
+
